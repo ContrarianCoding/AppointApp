@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/bar/Desktop/gitProj/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/bar/.android/build-cache/7df13c39cbfa47ab40f21fe223db243e56555e31/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/bar/Desktop/gitProj/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/bar/.android/build-cache/7df13c39cbfa47ab40f21fe223db243e56555e31/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/bar/Desktop/gitProj/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/bar/.android/build-cache/7df13c39cbfa47ab40f21fe223db243e56555e31/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/bar/Desktop/gitProj/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/bar/.android/build-cache/7df13c39cbfa47ab40f21fe223db243e56555e31/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

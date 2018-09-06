@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#889699"
+              android:weightSum="1">
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner2"
+        android:scrollbarSize="50dp"
+        android:layout_weight="0.28"/>
+
+    <DatePicker
+        android:layout_width="match_parent"
+        android:layout_height="351dp"
+        android:id="@+id/datePicker"
+        android:layout_alignStart="@+id/datePicker"
+        android:layout_above="@+id/calendar_button"
+        android:layout_weight="0.51"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Choose time"
+        android:id="@+id/calendar_button"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
+</LinearLayout>

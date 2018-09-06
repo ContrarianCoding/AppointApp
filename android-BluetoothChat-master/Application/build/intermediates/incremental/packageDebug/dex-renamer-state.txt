@@ -1,0 +1,7 @@
+#Mon Dec 11 03:52:36 IST 2017
+base.0=/home/bar/Desktop/gitProj/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dddfdd08ccd6f03aa186e0c002425e01ce42b2e7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/bar/Desktop/gitProj/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_49209c7fa70b16a89266df37a42023b204f8e5a4/classes.dex
+base.1=/home/bar/Desktop/gitProj/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_49209c7fa70b16a89266df37a42023b204f8e5a4
+file.0=/home/bar/Desktop/gitProj/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dddfdd08ccd6f03aa186e0c002425e01ce42b2e7/classes.dex

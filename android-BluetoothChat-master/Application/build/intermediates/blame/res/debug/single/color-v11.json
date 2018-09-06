@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bar/Desktop/gitProj/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/bar/.android/build-cache/136569aa73ee03e2384b84594d67ec75e30a5939/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/bar/Desktop/gitProj/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/bar/.android/build-cache/136569aa73ee03e2384b84594d67ec75e30a5939/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
